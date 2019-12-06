@@ -1,0 +1,611 @@
+2019-12-06 17:12:01 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:01 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:01 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:01 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:01 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:02 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:02 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:03 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:04 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:05 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:06 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:07 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:12:08 INFO  ExcelReader:137 - write file: DSPTTinhBacNinh.xlsx
+2019-12-06 17:12:08 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:12:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:09 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:10 INFO  ExcelReader:273 - write file: DSDVVT.xlsx
+2019-12-06 17:12:11 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:11 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:12 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:12 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:12 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:12 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:12 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:12 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:12:12 INFO  ExcelReader:273 - write file: DSDVTDL.xlsx
+2019-12-06 17:15:16 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:15:16 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:15:18 INFO  VehicleDAOImpl:66 - SELECT V.id, V.license_plate, V.seat, V.weight, V.business_type_id, V.provincial_id, V.transport_unit_id, V.data_transport_id FROM vehicle V JOIN provincial P on V.provincial_id = P.id WHERE V.provincial_id = ?
+2019-12-06 17:17:30 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:17:30 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:17:31 INFO  VehicleDAOImpl:66 - SELECT V.id, V.license_plate, V.seat, V.weight, V.business_type_id, V.provincial_id, V.transport_unit_id, V.data_transport_id FROM vehicle V JOIN provincial P on V.provincial_id = P.id WHERE V.provincial_id = ?
+2019-12-06 17:17:34 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:34 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:34 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:34 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:34 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:34 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:34 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:34 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:34 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:34 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:34 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:34 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:35 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:35 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:36 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:36 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:37 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:38 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:39 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:40 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:41 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:41 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  BusinessTypeDAOImpl:36 - SELECT * FROM business_type WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  CompanyDAOImpl:33 - SELECT * FROM company WHERE id = ?
+2019-12-06 17:17:42 INFO  ExcelReader:137 - write file: DSPTTinhBacNinh.xlsx
+2019-12-06 17:17:43 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:44 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:45 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ExcelReader:273 - write file: DSDVVT.xlsx
+2019-12-06 17:17:46 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:46 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:17:47 INFO  ExcelReader:273 - write file: DSDVTDL.xlsx
+2019-12-06 17:21:44 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:21:44 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:21:45 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:23:23 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:23:23 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:23:25 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:23:48 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:23:48 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:23:51 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:25:06 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:25:06 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:25:08 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:27:01 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:27:01 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:27:02 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:04 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:05 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:05 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:27:05 INFO  ExcelReader:272 - write file: DSDVTDL.xlsx
+2019-12-06 17:28:44 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:28:44 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:28:45 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:29:06 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:29:06 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:29:07 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:32:11 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:32:11 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:32:12 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:13 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:14 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 17:32:35 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:32:35 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:32:36 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:37 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:32:38 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 17:33:05 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:33:05 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:33:06 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:33:07 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:07 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:07 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:33:08 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 17:35:18 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 17:35:18 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 17:35:20 INFO  CompanyDAOImpl:49 - SELECT * FROM company WHERE code = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:21 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:22 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:22 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:22 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:22 INFO  ProvincialDAOImpl:24 - SELECT * FROM provincial WHERE id = ?
+2019-12-06 17:35:22 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:35:26 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:35:26 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:35:39 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:35:39 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:35:40 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:37:00 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:37:00 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:37:01 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:40:42 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:40:42 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:41:22 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:41:22 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:41:41 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:41:41 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:41:43 INFO  ExcelReader:275 - write file: DSDVTDL.xlsx
+2019-12-06 22:42:59 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:42:59 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:43:00 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:46:40 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:46:40 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:46:42 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:47:22 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:47:22 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:47:23 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:50:48 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:50:48 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:50:49 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:52:52 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:52:52 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:52:53 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:53:21 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:53:21 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:53:23 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:54:44 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:54:44 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:54:46 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:55:57 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:55:57 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:55:59 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 22:59:19 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 22:59:19 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 22:59:21 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:00:15 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:00:15 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:00:17 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:01:51 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:01:51 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:01:53 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:02:42 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:02:42 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:02:43 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:03:44 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:03:44 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:03:45 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:04:37 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:04:37 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:04:39 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:07:29 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:07:29 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:07:31 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:08:51 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:08:51 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:08:52 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:09:22 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:09:22 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:09:23 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:09:49 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:09:49 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:09:50 INFO  ExcelReader:274 - write file: DSDVTDL.xlsx
+2019-12-06 23:11:51 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:11:51 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:11:52 INFO  ExcelReader:273 - write file: DSDVTDL.xlsx
+2019-12-06 23:13:00 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:13:00 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:13:02 INFO  ExcelReader:273 - write file: DSDVTDL.xlsx
+2019-12-06 23:14:02 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:14:02 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:14:03 INFO  ExcelReader:273 - write file: DSDVTDL.xlsx
+2019-12-06 23:16:02 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:16:02 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:16:04 INFO  ExcelReader:273 - write file: DSDVTDL.xlsx
+2019-12-06 23:20:00 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:20:00 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:20:01 INFO  ExcelReader:277 - write file: DSDVTDL.xlsx
+2019-12-06 23:21:34 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:21:34 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:21:35 INFO  ExcelReader:277 - write file: DSDVTDL.xlsx
+2019-12-06 23:22:15 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:22:15 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:22:16 INFO  ExcelReader:277 - write file: DSDVTDL.xlsx
+2019-12-06 23:22:32 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:22:32 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:22:33 INFO  ExcelReader:277 - write file: DSDVTDL.xlsx
+2019-12-06 23:23:11 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:23:11 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:23:13 INFO  ExcelReader:277 - write file: DSDVTDL.xlsx
+2019-12-06 23:29:22 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:29:22 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:29:50 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:29:50 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:30:43 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:30:43 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:31:21 INFO  ThreadCheckNewFile:20 - Thread check new file -- start
+2019-12-06 23:31:21 INFO  ThreadWriteData:34 - thread write data -- start 
+2019-12-06 23:31:22 INFO  ExcelReader:141 - write file: DSPTTinhBacNinh.xlsx
+2019-12-06 23:31:22 INFO  ExcelReader:281 - write file: DSDVVT.xlsx
+2019-12-06 23:31:23 INFO  ExcelReader:281 - write file: DSDVTDL.xlsx

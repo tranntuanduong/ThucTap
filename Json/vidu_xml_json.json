@@ -1,0 +1,118 @@
+[
+	{
+		"infomation": {
+			"name": "T180A",
+			"address": "suoigiang"
+		},
+		"studentList": [
+			{
+				"fullName": "duong",
+				"birthday": "01-01-1998",
+				"email": "trantuanduong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "tuan",
+				"birthday": "01-01-1998",
+				"email": "tuan@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "cuong",
+				"birthday": "01-01-1998",
+				"email": "cuong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			}
+		]
+	},
+	{
+		"infomation": {
+			"name": "AAAAA",
+			"address": "suoigiang"
+		},
+		"studentList": [
+			{
+				"fullName": "duong",
+				"birthday": "01-01-1998",
+				"email": "trantuanduong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "tuan",
+				"birthday": "01-01-1998",
+				"email": "tuan@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "cuong",
+				"birthday": "01-01-1998",
+				"email": "cuong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			}
+		]
+	},
+		{
+		"infomation": {
+			"name": "T180A",
+			"address": "suoigiang"
+		},
+		"studentList": [
+			{
+				"fullName": "duong",
+				"birthday": "01-01-1998",
+				"email": "trantuanduong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "tuan",
+				"birthday": "01-01-1998",
+				"email": "tuan@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "cuong",
+				"birthday": "01-01-1998",
+				"email": "cuong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			}
+		]
+	},
+	{
+		"infomation": {
+			"name": "AAAAA",
+			"address": "suoigiang"
+		},
+		"studentList": [
+			{
+				"fullName": "duong",
+				"birthday": "01-01-1998",
+				"email": "trantuanduong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "tuan",
+				"birthday": "01-01-1998",
+				"email": "tuan@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			},
+			{
+				"fullName": "cuong",
+				"birthday": "01-01-1998",
+				"email": "cuong@gmail.com",
+				"address": "yenbai",
+				"gender": "Nam"
+			}
+		]
+	}	
+]
