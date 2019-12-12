@@ -23,4 +23,9 @@ public class ProvincialService implements IProvincialService {
 	public Provincial findById(Long id) {
 		return provincialRepository.findById(id);
 	}
+
+	@Override
+	public Long findIdByName(String provincialName) {
+		return provincialRepository.findIdByName(provincialName);
+	}
 }

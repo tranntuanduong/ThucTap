@@ -12,4 +12,10 @@ public class Constant {
 	
 	public static final String TRANSPORT_UNIT_CODE = "TRANSPORT_UNIT";
 	public static final String DATA_TRANSPORT_UNIT_CODE = "DATA_TRANSPORT_UNIT";
+	
+	public static final String TRANSPORT_UNIT_SHEETNAME = "DanhSachDonViVanTai";
+	public static final String DATA_TRANSPORT_UNIT_SHEETNAME = "DanhSachDonViTruyenDuLieu";
+	
+	public static final String TRANSPORT_UNIT_TITLE = "Danh Sách Đơn Vị Vận Tải";
+	public static final String DATA_TRANSPORT_UNIT_TITLE = "Danh Sách Đơn Vị Truyền Dữ Liệu";
 }
